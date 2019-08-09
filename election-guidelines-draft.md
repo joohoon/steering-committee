@@ -64,9 +64,11 @@ After votes are casted, the results of individual votes will be uploaded to ONNX
 
 ### Election officers
 Two election officers will be chosen from the current Steering committee to oversee the election process. 
+<code>**[TODO]** Confirm with Steering Committee</code> 
 
 ### Steering Committee emeritus members
 Two Steering Committee members will remain as emeritus members for the newly elected Committee to help with transition process for 1 month. 
+<code>**[TODO]** Confirm with Steering Committee</code> 
 
 
 
